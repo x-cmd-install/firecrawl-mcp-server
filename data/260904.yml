@@ -7,7 +7,7 @@ about:
   head: 518e929
   archived: false
   latestVersion: v3.2.1
-  collectedAt: 2026-09-04T20:06:11Z
+  collectedAt: 2026-09-04T20:38:09Z
 timeline:
   created: 2024-12-06
   lastCommit: 2026-09-03
@@ -84,7 +84,7 @@ total:
   commit: 465
 ---
 path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
-collectedAt: 2026-09-04T20:06:12Z
+collectedAt: 2026-09-04T20:38:10Z
 loc:
   JavaScript:
     code: 4342
