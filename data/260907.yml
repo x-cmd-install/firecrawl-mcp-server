@@ -5,15 +5,15 @@ about:
   head: 79fa705
   archived: false
   latestVersion: "v3.2.1"
-  collectedAt: 2026-09-07T06:17:39Z
+  collectedAt: 2026-09-07T18:16:15Z
 timeline:
   created: 2024-12-06
   lastCommit: 2026-09-06
   lastRelease: 2025-09-26
 popularity:
-  star: 7410
+  star: 7413
   watcher: 43
-  fork: 875
+  fork: 876
   release: 16
   contributor: 36
   pullRequest: 248
@@ -82,7 +82,7 @@ total:
   commit: 470
 ---
 path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
-collectedAt: 2026-09-07T06:17:42Z
+collectedAt: 2026-09-07T18:16:15Z
 loc:
   JavaScript:
     code: 4342
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:17:53+00:00
+  collectedAt: 2026-09-07T18:16:16+00:00
   platform:
     darwin/arm64:
       name:  null
