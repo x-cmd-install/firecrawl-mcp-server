@@ -12,6 +12,18 @@
 x install firecrawl-mcp-server
 ```
 
+## Code insight
+
+Total: **11,316** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 4,342 | 91 | 361 | 7 |
+| TypeScript | 4,004 | 364 | 299 | 8 |
+| Yaml | 2,632 | 3 | 788 | 3 |
+| Bitbake | 192 | 36 | 22 | 1 |
+| Json | 119 | 0 | 0 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/firecrawl/firecrawl-mcp-server>
@@ -36,20 +48,11 @@ x install firecrawl-mcp-server
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 15 | 11 | 1 | 3 | 39 |
+| last60d | 2026-07-12 | 0 | 43 | 19 | 2 | 11 | 86 |
 | 90d | 2026-06-12 | 0 | 66 | 23 | 2 | 17 | 133 |
+| last180d | 2026-03-14 | 0 | 85 | 36 | 8 | 33 | 170 |
 | 360d | 2025-09-15 | 2 | 105 | 45 | 14 | 46 | 231 |
-
-## Code size
-
-Total: **11,316** lines of code across **23** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 4,342 | 91 | 361 | 7 |
-| TypeScript | 4,004 | 364 | 299 | 8 |
-| Yaml | 2,632 | 3 | 788 | 3 |
-| Bitbake | 192 | 36 | 22 | 1 |
-| Json | 119 | 0 | 0 | 4 |
+| last720d | 2024-09-20 | 16 | 132 | 48 | 31 | 82 | 473 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:28:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:40:40Z._
