@@ -22,11 +22,10 @@ x install firecrawl-mcp-server
 
 - **Latest**: `v3.2.1` (2025-09-26)
 - **Last commit**: 2026-09-08
-- **Published**: 2025-09-26T07:31:17Z
 
 ## Popularity
 
-- **Stars**: 7,428 · **Forks**: 881 · **Open issues**: 113 · **Contributors**: 36
+- **Stars**: 7,431 · **Forks**: 881 · **Open issues**: 113 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -57,8 +56,8 @@ Total: **11,316** lines of code across **23** files in the top 5 languages.
 Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firecrawl-mcp-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/firecrawl-mcp-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/firecrawl-mcp-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:16:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:28:37Z._

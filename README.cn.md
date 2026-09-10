@@ -4,7 +4,7 @@
 
 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
-![firecrawl-mcp-server](https://repo.x-cmd.io/firecrawl-mcp-server.svg)
+![firecrawl-mcp-server](https://repo.x-cmd.io/firecrawl-mcp-server.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install firecrawl-mcp-server
 
 - **最新版本**: `v3.2.1` (2025-09-26)
 - **最近提交**: 2026-09-08
-- **发布时间**: 2025-09-26T07:31:17Z
 
 ## 流行度
 
-- **Star**: 7,428 · **Fork**: 881 · **开放 issue**: 113 · **贡献者**: 36
+- **Star**: 7,431 · **Fork**: 881 · **开放 issue**: 113 · **贡献者**: 36
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ firecrawl-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:16:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:28:37Z._
