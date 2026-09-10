@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.2.1"
   latestRelease: "v3.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:28:33Z
+  collectedAt: 2026-09-10T23:40:34Z
 timeline:
   created: 2024-12-06
   lastCommit: 2026-09-08
@@ -86,7 +86,7 @@ total:
   commit: 473
 ---
 path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
-collectedAt: 2026-09-10T18:28:34Z
+collectedAt: 2026-09-10T23:40:35Z
 loc:
   JavaScript:
     code: 4342
