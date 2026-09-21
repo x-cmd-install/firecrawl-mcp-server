@@ -14,11 +14,11 @@ x install firecrawl-mcp-server
 
 ## Code insight
 
-Total: **11,780** lines of code across **25** files in the top 5 languages.
+Total: **11,793** lines of code across **25** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 4,637 | 98 | 379 | 8 |
+| JavaScript | 4,650 | 99 | 379 | 8 |
 | TypeScript | 4,183 | 425 | 309 | 9 |
 | Yaml | 2,622 | 3 | 783 | 3 |
 | Bitbake | 192 | 40 | 22 | 1 |
@@ -37,22 +37,22 @@ Total: **11,780** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,489 · **Forks**: 891 · **Open issues**: 115 · **Contributors**: 36
+- **Stars**: 7,493 · **Forks**: 890 · **Open issues**: 115 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 137 · **Open PRs**: 56 · **Closed issues**: 31 · **Open issues**: 84 · **Commits**: 492
+- **Releases**: 16 · **Merged PRs**: 138 · **Open PRs**: 59 · **Closed issues**: 31 · **Open issues**: 84 · **Commits**: 494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 13 | 12 | 0 | 3 | 26 |
-| last60d | 2026-07-22 | 0 | 45 | 22 | 2 | 10 | 79 |
-| 90d | 2026-06-22 | 0 | 62 | 29 | 2 | 16 | 120 |
-| last180d | 2026-03-24 | 0 | 89 | 44 | 8 | 34 | 182 |
-| 360d | 2025-09-25 | 1 | 109 | 53 | 14 | 44 | 233 |
-| last720d | 2024-09-30 | 16 | 137 | 56 | 31 | 84 | 492 |
+| 30d | 2026-08-22 | 0 | 14 | 15 | 0 | 3 | 27 |
+| last60d | 2026-07-23 | 0 | 46 | 24 | 2 | 8 | 80 |
+| 90d | 2026-06-23 | 0 | 61 | 32 | 2 | 16 | 121 |
+| last180d | 2026-03-25 | 0 | 90 | 47 | 8 | 34 | 183 |
+| 360d | 2025-09-26 | 1 | 110 | 55 | 14 | 44 | 234 |
+| last720d | 2024-10-01 | 16 | 138 | 59 | 31 | 84 | 494 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:30:00Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:44:07Z._
