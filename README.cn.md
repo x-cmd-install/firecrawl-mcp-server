@@ -4,7 +4,7 @@
 
 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
-[![x-cmd/install — firecrawl-mcp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/firecrawl-mcp-server.svg?lang=zh)](https://x-cmd.com/install/firecrawl-mcp-server)
+[![x-cmd/install — firecrawl-mcp-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firecrawl-mcp-server.svg?lang=zh)](https://x-cmd.com/install/firecrawl-mcp-server)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install firecrawl-mcp-server
 
 ## 代码洞察
 
-合计: **14,023** 行代码（覆盖前 5 种语言、共 **37** 个文件）。
+合计: **14,236** 行代码（覆盖前 5 种语言、共 **37** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 5,995 | 97 | 463 | 16 |
-| TypeScript | 5,068 | 447 | 359 | 13 |
+| JavaScript | 6,192 | 99 | 473 | 16 |
+| TypeScript | 5,084 | 456 | 358 | 13 |
 | Yaml | 2,622 | 3 | 783 | 3 |
-| Bitbake | 192 | 40 | 22 | 1 |
+| Bitbake | 192 | 39 | 22 | 1 |
 | Json | 119 | 0 | 0 | 4 |
 
 ## 源代码
@@ -37,22 +37,22 @@ x install firecrawl-mcp-server
 
 ## 流行度
 
-- **Star**: 7,500 · **Fork**: 891 · **开放 issue**: 115 · **贡献者**: 36
+- **Star**: 7,501 · **Fork**: 892 · **开放 issue**: 115 · **贡献者**: 37
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 142 · **开放 PR**: 61 · **已关闭 issue**: 31 · **开放 issue**: 84 · **提交数**: 504
+- **发布数**: 16 · **已合并 PR**: 147 · **开放 PR**: 62 · **已关闭 issue**: 31 · **开放 issue**: 84 · **提交数**: 514
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 18 | 17 | 0 | 3 | 35 |
-| last60d | 2026-07-24 | 0 | 50 | 25 | 2 | 8 | 88 |
-| 90d | 2026-06-24 | 0 | 63 | 34 | 2 | 16 | 129 |
-| last180d | 2026-03-26 | 0 | 94 | 49 | 8 | 34 | 191 |
-| 360d | 2025-09-27 | 0 | 114 | 57 | 14 | 44 | 242 |
-| last720d | 2024-10-02 | 16 | 142 | 61 | 31 | 84 | 504 |
+| 30d | 2026-08-24 | 0 | 22 | 18 | 0 | 3 | 42 |
+| last60d | 2026-07-25 | 0 | 54 | 26 | 2 | 8 | 95 |
+| 90d | 2026-06-25 | 0 | 68 | 34 | 2 | 16 | 136 |
+| last180d | 2026-03-27 | 0 | 99 | 50 | 8 | 32 | 198 |
+| 360d | 2025-09-28 | 0 | 119 | 58 | 14 | 44 | 249 |
+| last720d | 2024-10-03 | 16 | 147 | 62 | 31 | 84 | 514 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ firecrawl-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:37:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:43:29Z._
