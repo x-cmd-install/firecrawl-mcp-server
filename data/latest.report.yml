@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.2.1"
   latestRelease: "v3.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T07:04:10Z
+  collectedAt: 2026-10-31T06:59:45Z
 timeline:
   created: 2024-12-06
   lastCommit: 2026-10-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-09-26
   lastPrerelease: 
 popularity:
-  star: 7724
+  star: 7730
   watcher: 44
   fork: 921
   release: 16
@@ -29,31 +29,31 @@ language:
 totalBytes: 925126
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 91
+    mergedPR: 90
     openPR: 23
     closedIssue: 1
-    openIssue: 15
+    openIssue: 14
     commit: 146
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 137
-    openPR: 40
+    openPR: 39
     closedIssue: 1
     openIssue: 20
     commit: 259
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 165
+    mergedPR: 164
     openPR: 47
-    closedIssue: 3
+    closedIssue: 2
     openIssue: 24
     commit: 309
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
     mergedPR: 213
     openPR: 65
@@ -61,15 +61,15 @@ recent:
     openIssue: 42
     commit: 409
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
     mergedPR: 235
     openPR: 75
-    closedIssue: 11
+    closedIssue: 10
     openIssue: 59
     commit: 458
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 16
     mergedPR: 267
     openPR: 82
@@ -85,7 +85,7 @@ total:
   commit: 800
 ---
 path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
-collectedAt: 2026-10-30T07:04:12Z
+collectedAt: 2026-10-31T06:59:47Z
 loc:
   JavaScript:
     code: 12725
