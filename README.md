@@ -33,26 +33,26 @@ Total: **32,941** lines of code across **99** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.2.1` (2025-09-26)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 7,737 · **Forks**: 922 · **Open issues**: 131 · **Contributors**: 41
+- **Stars**: 7,747 · **Forks**: 924 · **Open issues**: 132 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 267 · **Open PRs**: 82 · **Closed issues**: 30 · **Open issues**: 101 · **Commits**: 800
+- **Releases**: 16 · **Merged PRs**: 269 · **Open PRs**: 82 · **Closed issues**: 30 · **Open issues**: 102 · **Commits**: 802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 88 | 21 | 1 | 14 | 72 |
-| last60d | 2026-09-02 | 0 | 137 | 38 | 1 | 20 | 247 |
-| 90d | 2026-08-03 | 0 | 160 | 46 | 2 | 24 | 292 |
-| last180d | 2026-05-05 | 0 | 213 | 65 | 5 | 42 | 408 |
-| 360d | 2025-11-06 | 0 | 234 | 75 | 10 | 59 | 457 |
-| last720d | 2024-11-11 | 16 | 267 | 82 | 30 | 101 | 800 |
+| 30d | 2026-10-03 | 0 | 89 | 21 | 1 | 14 | 74 |
+| last60d | 2026-09-03 | 0 | 138 | 37 | 1 | 21 | 249 |
+| 90d | 2026-08-04 | 0 | 160 | 46 | 2 | 25 | 294 |
+| last180d | 2026-05-06 | 0 | 215 | 65 | 5 | 43 | 410 |
+| 360d | 2025-11-07 | 0 | 236 | 75 | 10 | 60 | 459 |
+| last720d | 2024-11-12 | 16 | 269 | 82 | 30 | 102 | 802 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:18:31Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:34:14Z._
