@@ -14,12 +14,12 @@ x install firecrawl-mcp-server
 
 ## Code insight
 
-Total: **32,941** lines of code across **99** files in the top 5 languages.
+Total: **33,043** lines of code across **99** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 12,725 | 349 | 972 | 45 |
-| TypeScript | 9,027 | 1,017 | 647 | 34 |
+| JavaScript | 12,812 | 351 | 979 | 45 |
+| TypeScript | 9,042 | 1,023 | 648 | 34 |
 | Json | 9,010 | 0 | 0 | 16 |
 | Yaml | 2,160 | 4 | 634 | 3 |
 | Dockerfile | 19 | 8 | 11 | 1 |
@@ -37,22 +37,22 @@ Total: **32,941** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,747 · **Forks**: 924 · **Open issues**: 132 · **Contributors**: 41
+- **Stars**: 7,754 · **Forks**: 926 · **Open issues**: 132 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 269 · **Open PRs**: 82 · **Closed issues**: 30 · **Open issues**: 102 · **Commits**: 802
+- **Releases**: 16 · **Merged PRs**: 270 · **Open PRs**: 83 · **Closed issues**: 30 · **Open issues**: 102 · **Commits**: 803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 89 | 21 | 1 | 14 | 74 |
-| last60d | 2026-09-03 | 0 | 138 | 37 | 1 | 21 | 249 |
-| 90d | 2026-08-04 | 0 | 160 | 46 | 2 | 25 | 294 |
-| last180d | 2026-05-06 | 0 | 215 | 65 | 5 | 43 | 410 |
-| 360d | 2025-11-07 | 0 | 236 | 75 | 10 | 60 | 459 |
-| last720d | 2024-11-12 | 16 | 269 | 82 | 30 | 102 | 802 |
+| 30d | 2026-10-04 | 0 | 90 | 22 | 1 | 14 | 75 |
+| last60d | 2026-09-04 | 0 | 138 | 37 | 1 | 21 | 250 |
+| 90d | 2026-08-05 | 0 | 161 | 47 | 2 | 25 | 295 |
+| last180d | 2026-05-07 | 0 | 216 | 64 | 5 | 43 | 411 |
+| 360d | 2025-11-08 | 0 | 237 | 76 | 10 | 60 | 460 |
+| last720d | 2024-11-13 | 16 | 270 | 83 | 30 | 102 | 803 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:34:14Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:14:55Z._
