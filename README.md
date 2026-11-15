@@ -37,7 +37,7 @@ Total: **39,567** lines of code across **114** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,815 · **Forks**: 932 · **Open issues**: 134 · **Contributors**: 41
+- **Stars**: 7,821 · **Forks**: 934 · **Open issues**: 134 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **39,567** lines of code across **114** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 95 | 22 | 0 | 13 | 116 |
-| last60d | 2026-09-15 | 1 | 176 | 40 | 1 | 20 | 306 |
-| 90d | 2026-08-16 | 1 | 192 | 50 | 2 | 24 | 350 |
-| last180d | 2026-05-18 | 1 | 255 | 67 | 5 | 42 | 468 |
-| 360d | 2025-11-19 | 1 | 279 | 81 | 10 | 61 | 520 |
-| last720d | 2024-11-24 | 17 | 312 | 88 | 30 | 104 | 879 |
+| 30d | 2026-10-16 | 1 | 93 | 22 | 0 | 12 | 82 |
+| last60d | 2026-09-16 | 1 | 176 | 39 | 1 | 20 | 277 |
+| 90d | 2026-08-17 | 1 | 192 | 50 | 2 | 24 | 343 |
+| last180d | 2026-05-19 | 1 | 255 | 67 | 5 | 42 | 463 |
+| 360d | 2025-11-20 | 1 | 279 | 81 | 10 | 61 | 519 |
+| last720d | 2024-11-25 | 17 | 312 | 88 | 30 | 104 | 879 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:30:16Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:05:48Z._
