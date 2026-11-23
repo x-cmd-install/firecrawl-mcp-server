@@ -1,0 +1,127 @@
+about:
+  description: "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client."
+  license: MIT
+  homepage: https://firecrawl.dev
+  head: 8a57386
+  archived: false
+  latestVersion: "v3.36.1"
+  latestRelease: "v3.36.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-23T09:33:11Z
+timeline:
+  created: 2024-12-06
+  lastCommit: 2026-11-22
+  lastVersion: 2026-11-03
+  lastRelease: 2026-11-03
+  lastPrerelease: 
+popularity:
+  star: 7886
+  watcher: 44
+  fork: 945
+  release: 17
+  contributor: 41
+  pullRequest: 545
+  issue: 135
+language:
+  JavaScript: 691931
+  TypeScript: 522541
+  Dockerfile: 1203
+totalBytes: 1215675
+recent:
+  last30d:
+    since: 2026-10-24
+    release: 1
+    mergedPR: 70
+    openPR: 23
+    closedIssue: 0
+    openIssue: 8
+    commit: 79
+  last60d:
+    since: 2026-09-24
+    release: 1
+    mergedPR: 170
+    openPR: 42
+    closedIssue: 1
+    openIssue: 21
+    commit: 237
+  last90d:
+    since: 2026-08-25
+    release: 1
+    mergedPR: 199
+    openPR: 54
+    closedIssue: 1
+    openIssue: 25
+    commit: 338
+  last180d:
+    since: 2026-05-27
+    release: 1
+    mergedPR: 268
+    openPR: 72
+    closedIssue: 4
+    openIssue: 44
+    commit: 464
+  last360d:
+    since: 2025-11-28
+    release: 1
+    mergedPR: 294
+    openPR: 87
+    closedIssue: 10
+    openIssue: 61
+    commit: 534
+  last720d:
+    since: 2024-12-03
+    release: 17
+    mergedPR: 327
+    openPR: 94
+    closedIssue: 30
+    openIssue: 105
+    commit: 894
+total:
+  release: 17
+  mergedPR: 327
+  openPR: 94
+  closedIssue: 30
+  openIssue: 105
+  commit: 894
+---
+path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
+collectedAt: 2026-11-23T09:33:15Z
+loc:
+  JavaScript:
+    code: 15720
+    comments: 431
+    blanks: 1220
+    files: 61
+  Json:
+    code: 13258
+    comments: 0
+    blanks: 0
+    files: 18
+  TypeScript:
+    code: 10808
+    comments: 1245
+    blanks: 797
+    files: 37
+  Yaml:
+    code: 2160
+    comments: 4
+    blanks: 634
+    files: 3
+  Dockerfile:
+    code: 19
+    comments: 8
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1081
+    blanks: 533
+    files: 5
+total:
+  code: 42388
+  comments: 2780
+  blanks: 3201
+  files: 125
+---
+
+---
