@@ -14,13 +14,13 @@ x install firecrawl-mcp-server
 
 ## Code insight
 
-Total: **42,294** lines of code across **122** files in the top 5 languages.
+Total: **41,618** lines of code across **122** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 15,962 | 440 | 1,244 | 62 |
-| Json | 13,258 | 0 | 0 | 18 |
-| TypeScript | 10,895 | 1,272 | 804 | 38 |
+| JavaScript | 16,024 | 440 | 1,256 | 62 |
+| Json | 12,491 | 0 | 0 | 18 |
+| TypeScript | 10,924 | 1,283 | 806 | 38 |
 | Yaml | 2,160 | 4 | 634 | 3 |
 | Dockerfile | 19 | 8 | 11 | 1 |
 
@@ -33,26 +33,26 @@ Total: **42,294** lines of code across **122** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.36.1` (2026-11-03)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 7,919 · **Forks**: 949 · **Open issues**: 135 · **Contributors**: 41
+- **Stars**: 7,928 · **Forks**: 950 · **Open issues**: 131 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 333 · **Open PRs**: 93 · **Closed issues**: 30 · **Open issues**: 105 · **Commits**: 900
+- **Releases**: 17 · **Merged PRs**: 339 · **Open PRs**: 92 · **Closed issues**: 28 · **Open issues**: 103 · **Commits**: 906
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 67 | 23 | 0 | 5 | 85 |
-| last60d | 2026-09-27 | 1 | 169 | 39 | 1 | 21 | 243 |
-| 90d | 2026-08-28 | 1 | 203 | 53 | 1 | 25 | 344 |
-| last180d | 2026-05-30 | 1 | 268 | 71 | 3 | 43 | 470 |
-| 360d | 2025-12-01 | 1 | 300 | 85 | 10 | 61 | 540 |
-| last720d | 2024-12-06 | 17 | 332 | 93 | 29 | 105 | 900 |
+| 30d | 2026-10-28 | 1 | 72 | 22 | 0 | 5 | 91 |
+| last60d | 2026-09-28 | 1 | 169 | 38 | 0 | 21 | 249 |
+| 90d | 2026-08-29 | 1 | 209 | 52 | 0 | 25 | 350 |
+| last180d | 2026-05-31 | 1 | 274 | 69 | 2 | 43 | 476 |
+| 360d | 2025-12-02 | 1 | 306 | 84 | 8 | 59 | 546 |
+| last720d | 2024-12-07 | 16 | 338 | 92 | 27 | 103 | 899 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for firecrawl-mcp-server lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:08:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:35:59Z._
