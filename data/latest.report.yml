@@ -2,12 +2,12 @@ about:
   description: "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client."
   license: MIT
   homepage: https://firecrawl.dev
-  head: 73ceb48
+  head: a2d9cef
   archived: false
   latestVersion: "v3.36.1"
   latestRelease: "v3.36.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:35:46Z
+  collectedAt: 2026-11-28T08:31:27Z
 timeline:
   created: 2024-12-06
   lastCommit: 2026-11-27
@@ -15,92 +15,92 @@ timeline:
   lastRelease: 2026-11-03
   lastPrerelease: 
 popularity:
-  star: 7928
+  star: 7936
   watcher: 44
-  fork: 950
+  fork: 951
   release: 17
   contributor: 41
   pullRequest: 560
-  issue: 131
+  issue: 132
 language:
-  JavaScript: 708798
-  TypeScript: 529323
+  JavaScript: 713036
+  TypeScript: 531602
   Dockerfile: 1203
-totalBytes: 1239324
+totalBytes: 1245841
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 72
-    openPR: 22
+    mergedPR: 73
+    openPR: 19
     closedIssue: 0
-    openIssue: 5
-    commit: 91
+    openIssue: 6
+    commit: 94
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
-    mergedPR: 169
-    openPR: 38
+    mergedPR: 168
+    openPR: 35
     closedIssue: 0
     openIssue: 21
-    commit: 249
+    commit: 252
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
-    mergedPR: 209
-    openPR: 52
+    mergedPR: 211
+    openPR: 50
     closedIssue: 0
-    openIssue: 25
-    commit: 350
+    openIssue: 26
+    commit: 353
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
-    mergedPR: 274
-    openPR: 69
+    mergedPR: 275
+    openPR: 67
     closedIssue: 2
-    openIssue: 43
-    commit: 476
+    openIssue: 44
+    commit: 479
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
-    mergedPR: 306
-    openPR: 84
+    mergedPR: 308
+    openPR: 82
     closedIssue: 8
-    openIssue: 59
-    commit: 546
+    openIssue: 60
+    commit: 549
   last720d:
-    since: 2024-12-07
-    release: 16
-    mergedPR: 338
-    openPR: 92
+    since: 2024-12-08
+    release: 14
+    mergedPR: 340
+    openPR: 90
     closedIssue: 27
-    openIssue: 103
-    commit: 899
+    openIssue: 104
+    commit: 904
 total:
   release: 17
-  mergedPR: 339
-  openPR: 92
+  mergedPR: 341
+  openPR: 90
   closedIssue: 28
-  openIssue: 103
-  commit: 906
+  openIssue: 104
+  commit: 913
 ---
 path: /home/runner/.x-repo/github.com/firecrawl/firecrawl-mcp-server
-collectedAt: 2026-11-27T10:35:51Z
+collectedAt: 2026-11-28T08:31:31Z
 loc:
   JavaScript:
-    code: 16024
-    comments: 440
-    blanks: 1256
-    files: 62
+    code: 16128
+    comments: 443
+    blanks: 1265
+    files: 63
   Json:
     code: 12491
     comments: 0
     blanks: 0
     files: 18
   TypeScript:
-    code: 10924
-    comments: 1283
-    blanks: 806
+    code: 10963
+    comments: 1295
+    blanks: 808
     files: 38
   Yaml:
     code: 2160
@@ -114,14 +114,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1087
+    comments: 1088
     blanks: 535
     files: 5
 total:
-  code: 42041
-  comments: 2833
-  blanks: 3248
-  files: 127
+  code: 42184
+  comments: 2849
+  blanks: 3259
+  files: 128
 ---
 
 ---
